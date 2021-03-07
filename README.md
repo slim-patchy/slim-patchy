@@ -32,4 +32,4 @@ In my spare time I enjoy classical music (especially via private piano and violi
 
 ## Writing and Blogging
 
-I maintain a blog at [Medium](https://medium.com/@krisastern), which I have been using chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements, as well as for et cetera. 
+I maintain a blog at [Medium](https://medium.com/@krisastern), which I have been using chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements, as well as for other technical stuff, et cetera. 
