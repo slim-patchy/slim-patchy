@@ -4,7 +4,7 @@ My name is Dr. Kris Akira Stern (PhD HKU, 2021; MPhil HKUST, 2016; BSc CUHK, 201
 
 In my spare time, I like to develop software and to understand the interplay between AI and human interactions. 
 
-In my spare time I enjoy classical music, kendo, field hockey, cricket, baseball/softball, sports analytics, games development, history, public radio as well as TV (CBC, BBC, NPR), as well as current affairs. 
+In my spare time I enjoy classical music (especially via private piano and violin studies), kendo, field hockey, cricket, baseball/softball, sports analytics, games development, history, public radio as well as TV (CBC, BBC, NPR), as well as current affairs. 
 
 
 ## Technology and Tools
