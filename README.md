@@ -28,8 +28,3 @@ In my spare time I enjoy classical music (especially via private piano and violi
 ![](https://img.shields.io/badge/Database-NoSQL/MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
-
-
-## Writing and Blogging
-
-I maintain a blog at [Medium](https://medium.com/@krisastern), which I have been using chiefly for satisfying Google Summer of Code (GSoC) 2019 & 2020 requirements, as well as for other technical stuff, et cetera. 
