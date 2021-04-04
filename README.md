@@ -1,6 +1,6 @@
 ## Hello, world!
  
-My name is Dr. Kris Stern (PhD HKU, 2021; MPhil HKUST, 2016; BSc CUHK, 2012) and I am a Software Engineer and Data Scientist currently based out in Hong Kong. I am interested in physics, astrophysics, geophysics (through GIS), and computer science as academic pursuits, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions.
+My name is Dr. Kris Stern (PhD HKU, 2021; MPhil HKUST, 2016; BSc CUHK, 2012) and I am a Software Engineer currently based out in Hong Kong. I am interested in physics, astrophysics, geophysics (through GIS), and computer science as academic pursuits, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory analysis performed on data cubes of many dimensions.
 
 In my spare time, I like to develop software and to understand the interplay between AI and human interactions. 
 
