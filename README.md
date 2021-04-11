@@ -25,7 +25,6 @@ In my spare time I enjoy classical music (especially via private piano and violi
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5a4fcf)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5a4fcf)
 ![](https://img.shields.io/badge/Cloud-AWS/GCP/Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-NoSQL/MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
