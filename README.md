@@ -29,3 +29,7 @@ In my spare time I enjoy classical music (especially via private piano and violi
 ![](https://img.shields.io/badge/Database-NoSQL/MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
+
+## Writing and Blogging
+
+I maintain a blog at [Medium](https://slim-patchy.medium.com/), which I use primarily for my work as an AI Credit Model Researcher at FinMonster, which is a FinTech startup in Hong Kong. 
