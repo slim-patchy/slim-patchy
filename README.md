@@ -35,7 +35,7 @@ In my spare time I enjoy good music (of all sorts), field hockey, cricket, baseb
 I maintain a blog at [Medium](https://slim-patchy.medium.com/), which I use primarily for my work as an AI Credit Model Researcher at FinMonster, which is a FinTech startup in Hong Kong. 
 
 ## GitHub Stats
-[![Kris Stern's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slim-patchy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kris Stern's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slim-patchy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 [![Kris Stern's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slim-patchy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
