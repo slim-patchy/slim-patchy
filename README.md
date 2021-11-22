@@ -4,7 +4,7 @@ My name is Dr. Kris Stern (PhD HKU, 2021; MPhil HKUST, 2016; BSc CUHK, 2012) and
 
 In my spare time, I like to develop software and to understand the interplay between AI and human interactions. 
 
-In my spare time I enjoy good music (of all sorts), field hockey, cricket, baseball/softball, sports analytics, history, public radio as well as TV (CBC, BBC, NPR), as well as current affairs. 
+In my spare time I enjoy good music (of all sorts), sports analytics, history, public radio as well as TV (CBC, BBC, NPR), as well as current affairs. 
 
 
 ## Technology and Tools
