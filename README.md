@@ -32,7 +32,7 @@ In my spare time I enjoy good music (of all sorts), sports analytics, history, p
 
 ## Writing and Blogging
 
-I maintain a blog at [Medium](https://slim-patchy.medium.com/), which I use primarily for my work as an AI Credit Model Researcher at FinMonster, which is a FinTech startup in Hong Kong. 
+I maintain a blog at [Medium](https://slim-patchy.medium.com/), which I use primarily for my professional work.
 
 ## GitHub Stats
 [![Kris Stern's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slim-patchy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
