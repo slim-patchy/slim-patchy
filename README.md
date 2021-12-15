@@ -2,9 +2,7 @@
  
 My name is Dr. Kris Stern (PhD HKU, 2021; MPhil HKUST, 2016; BSc CUHK, 2012) and I am a AI / Full-stack Software Engineer currently based out of Hong Kong. I am interested in physics, astrophysics, geophysics (through GIS), and computer science as academic pursuits, and would like to apply artificial intelligence / machine learning / algorithm to such studies, whether it is related to work or for my private interests. I am also fascinated by data visualisation, especially in the exploratory data analysis (EDA) performed on data cubes of many dimensions.
 
-In my spare time, I like to develop software and to understand the interplay between AI and human interactions. 
-
-In my spare time I enjoy good music (of all sorts), sports analytics, history, public radio as well as TV (CBC, BBC, NPR), as well as current affairs. 
+In my spare time, I like to play the violin. I also enjoy good music (of all sorts, including classical), sports analytics, history, public radio and TV (CBC, BBC, NPR), as well as current affairs. 
 
 
 ## Technology and Tools
